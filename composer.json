@@ -1,0 +1,19 @@
+{
+    "name": "igtlib-php/apns",
+    "description": "IGT PHP LIB: APNS",
+    "homepage": "https://github.com/sakditorn/apns.git",
+    "type": "library",
+    "license": "Apache-2.0",
+    "require": {
+        "php": ">=5.3.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.2.*",
+        "squizlabs/php_codesniffer": "2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "APNS\\": "src"
+        }
+    }
+}
