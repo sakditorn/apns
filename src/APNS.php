@@ -2,4 +2,6 @@
 
 namespace APNS;
 
-class APNS {}
+class APNS {
+
+}
